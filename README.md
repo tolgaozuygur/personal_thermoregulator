@@ -2,7 +2,7 @@
 When you wear this device, it makes you feel the environment colder by -probably- tricking your mind. 
 To do this, it cools down your inner wrist at regular intervals by using a peltier module. When your inner wrist gets cooler, you actually feel the environment is cooler.
 
-<img src="https://github.com/tolgaozuygur/personal_thermoregulator/blob/master/images/personal_thermoregulator.jpg" title="" alt="" width="500">
+![Personal Thermoregulator](https://raw.githubusercontent.com/tolgaozuygur/personal_thermoregulator/main/images/personal_thermoregulator.jpg)
 
 ## Parts Required
 - <a href="https://www.wemos.cc/en/latest/d1/d1_mini.html" target="_blank">1x Wemos Lolin d1 mini</a>
@@ -19,7 +19,7 @@ To do this, it cools down your inner wrist at regular intervals by using a pelti
 ## Schematics
 You need to set this circuit up, on a Wemos d1 mini protoboard shield. It's a bit tricky, I'll draw a proper printable pcb soon.
 
-<img src="https://github.com/tolgaozuygur/personal_thermoregulator/blob/master/images/personal_thermoregulator_bb.png" title="Schematics" alt="Schematics" width="500">
+![Schematics](https://raw.githubusercontent.com/tolgaozuygur/personal_thermoregulator/main/images/personal_thermoregulator_bb.png)
 
 ## Thanks
 I learned about this cooling effect thanks to an old startup called Wristify (I think they are called Embr Labs now). I'd like to thank them for the inspiration. I made several devices like this over the years, but this one is working great!
