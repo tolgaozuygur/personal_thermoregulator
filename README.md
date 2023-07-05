@@ -8,6 +8,7 @@ To do this, it cools down your inner wrist at regular intervals by using a pelti
 - <a href="https://www.wemos.cc/en/latest/d1/d1_mini.html" target="_blank">1x Wemos Lolin d1 mini</a>
 - <a href="https://www.wemos.cc/en/latest/d1_mini_shield/protoboard.html" target="_blank">Wemos d1 mini Protoboard Shield</a>
 - <a href="https://tr.aliexpress.com/item/1005005450086963.html" target="_blank">Battery charger and booster module (3.7v charging, 5V output)</a>
+- <a href="https://www.waveshare.com/product/cm4-fan-3007.htm" target="_blank">3007 5V Fan. (I used this fan because of its form factor. But you can modify the fan_holder 3d files to fit different 30mm blower fans)</a>
 - 1x 18500 3.7v 1800mah Battery
 - 1x 40x20mm 6v Peltier Module
 - 1x IRF540N Mosfet
